@@ -8,7 +8,7 @@ int x4 =x/10; //4
 int sum = x1 + x2 + x3 +x4; 
 Console.WriteLine(sum); */
 
-int x = 4322;
+int x = 4321;
 int x1;
 int sum = 0;
 
